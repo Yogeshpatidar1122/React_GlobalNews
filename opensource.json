@@ -1,0 +1,135 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [{
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "India and Pakistan came close to nuclear war: Pompeo",
+            "description": "US officials helped avert a \"nuclear conflagration\" in 2019, former Secretary of State Mike Pompeo says.",
+            "url": "http://www.bbc.co.uk/news/world-asia-india-64396138",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8BB0/production/_128406753_9c7d7360-1fd5-4d56-b02b-38441ca3eb17.jpg",
+            "publishedAt": "2023-01-25T08:52:16.4615206Z",
+            "content": "India and Pakistan came \"close\" to a \"nuclear conflagration\" in February 2019, former US Secretary of State Mike Pompeo has said in his new memoir.\r\nThis happened after Delhi launched strikes against… [+3092 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "This is the family that bought a $1.5m fire-damaged Tennessee mansion",
+            "description": "The new owners are \"stoked\" to have picked up the property despite its damaged condition.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-64389615",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/BDA6/production/_128405584_mikethakurthree.jpg",
+            "publishedAt": "2023-01-25T07:52:21.4464585Z",
+            "content": "A mansion in Tennessee that was badly charred in a fire has found a buyer after just four days on the market. \r\nEntrepreneur Mike Thakur said he has purchased the five-acre property, which has attrac… [+3115 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "China Covid: Coffins sell out as losses mount",
+            "description": "In rural Shanxi province, the BBC found evidence of a considerable death toll from the virus.",
+            "url": "http://www.bbc.co.uk/news/world-asia-china-64347085",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/841A/production/_128381833_4iawxmwo.jpg",
+            "publishedAt": "2023-01-25T07:07:19.1347829Z",
+            "content": "The coffin makers of northern Shanxi province have been busy. We watched the skilled craftsmen as they carved elaborate decorations into the freshly-cut wood. Over recent months, they say, they haven… [+5640 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Signs used by apes understood by humans",
+            "description": "Researchers believe gestures used by chimps and bonobos were a \"starting point\" for our language.",
+            "url": "http://www.bbc.co.uk/news/science-environment-64387401",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7E21/production/_128398223_73fe0820-b81e-4fc5-9861-6a621e392ff6.jpg",
+            "publishedAt": "2023-01-25T04:22:18.2471768Z",
+            "content": "Humans understand the \"signs\" or gestures wild chimps and bonobos use to communicate with one another. \r\nThat is the conclusion of a video-based study in which volunteers translated ape gestures. It … [+2433 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "MH17: Court ruling due on Dutch case against Russia",
+            "description": "The European Court of Human Rights is to say whether it will hear a case about Moscow's role in the crash.",
+            "url": "http://www.bbc.co.uk/news/world-europe-64395406",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8886/production/_128405943_9d10dc4b94d5e5465c185b145077f909ef5a00e7.jpg",
+            "publishedAt": "2023-01-25T02:07:17.742747Z",
+            "content": "The European Court of Human Rights is set to announce whether it will hear a Dutch case against Russia over the downing of flight MH17 in 2014.\r\nAll 298 people on the Malaysia Airlines flight were ki… [+1882 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Eating chicken without killing chicken?",
+            "description": "A US company got regulatory approval for lab grown meat and is aiming to sell it to restaurants soon.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-64381704",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/82AA/production/_128405433_p0dyknv6.jpg",
+            "publishedAt": "2023-01-25T01:07:17.7443148Z",
+            "content": "Lisa Marie, my icon, my role model, my superhero - daughter. Video, 00:02:04Lisa Marie, my icon, my role model, my superhero - daughter"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Self-styled spiritual leader John de Ruiter charged with sex crimes",
+            "description": "John de Ruiter became known for staring silently at his followers for long periods of time.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-64391464",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15B43/production/_128399888_john-de-ruiter-landscape-brick.jpg",
+            "publishedAt": "2023-01-24T23:52:22.4771321Z",
+            "content": "A messianic leader of a multi-million dollar spiritual organisation in western Canada has been charged with four counts of sexual assault.\r\nJohn de Ruiter, 63, has led the College of Integrated Philo… [+2779 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Tanks for Ukraine: Germany to send Leopard 2s and allow others to export - reports",
+            "description": "Germany has been under pressure over its reluctance to send the battle tanks to Ukraine.",
+            "url": "http://www.bbc.co.uk/news/world-europe-64391272",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7238/production/_128404292_mediaitem128404291.jpg",
+            "publishedAt": "2023-01-24T19:22:21.7269858Z",
+            "content": "German Chancellor Olaf Scholz has decided to send Leopard 2 tanks to Ukraine, and allow other countries to do the same, reports in Germany say.\r\nLeopard 2s are made in Germany and Berlin needs to app… [+1179 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Classified documents found at Mike Pence's home",
+            "description": "Documents have been found at the former US vice-president's home in the latest secret paper discovery.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-64392871",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
+            "publishedAt": "2023-01-24T17:52:25.1017083Z",
+            "content": "Classified documents have been found at former US Vice-President Mike Pence's home in the latest secret paper discovery.\r\nThe documents, discovered by a lawyer last week for Mr Pence at his Indiana h… [+729 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Seven dead in second California shooting in three days",
+            "description": "The attack at Half Moon Bay comes only two days after a mass shooting in Monterey Park.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-64382598",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F315/production/_128392226_screenshot2023-01-23at6.40.17pm.png",
+            "publishedAt": "2023-01-24T03:52:19.4142059Z",
+            "content": "A gunman killed seven people before being arrested in California on Monday, just two days after a shooting claimed 11 lives at a popular dance hall. \r\nThe latest attacks occurred at two separate loca… [+2257 chars]"
+        }
+    ]
+}
